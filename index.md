@@ -12,6 +12,7 @@ But not this
 
 
 ![test image](/2020 Survey Viz/area_respondents.png)
+<img src="/2020 Survey Viz/area_respondents.png" alt="Flowers in Chania">
 
 how does this work
 what do you mean?
