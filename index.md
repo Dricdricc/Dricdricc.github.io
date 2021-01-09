@@ -1,8 +1,8 @@
 Preferences, Pain Points and Priorities
 ===
 
-Prelude
----
+<h2>Prelude</h2>
+
 The Data Visualization Society released a census to understand the current landscape of data visualization. <br>
 Participants are asked a variety of questions about their practice and background. <br><br>
 Given the recent data science boom, I thought it would be great to see how different "generations" of practitioners differ in aspects covered in the survey. We can qualify these *"generations"* through respondents' years in professional experience.<br><br>
@@ -16,8 +16,8 @@ While we see that the base of respondents skew to the younger side, the census a
 
 
 
-Preferences
----
+<h2>Preferences</h2>
+
 <b><i>"What technologies do you use to visualize data?"</i></b>
 <img src="/2020 Survey Viz/tech_respondents.png">
 
@@ -31,12 +31,12 @@ Graphs in the following sections follow a similar theme.
 
 <br>
 <b><i>"What methods do you find most helpful in learning new data visualization skills?"</i></b>
-<TO-DO>
+asdfasdfasdf
 
 
 
-Pain Points
----
+<h2>Pain Points</h2>
+
 <b><i>"What are your biggest frustrations with doing data visualization in your job?"</i></b>
 <img src="/2020 Survey Viz/frus_respondents.png">
 
@@ -60,8 +60,8 @@ This is in theme with their frustrations - both are very focused on the tools of
 
 
 
-Priorities
----
+<h2>Priorities</h2>
+
 <b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
 <img src="/2020 Survey Viz/area_respondents.png">
 
@@ -81,6 +81,6 @@ Priorities
 
 
 
-Postmortem
----
+<h2>Postmortem</h2>
+
 <TO-DO>
