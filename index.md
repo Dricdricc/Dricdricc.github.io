@@ -11,8 +11,7 @@ Break lines.
 But not this
 
 
-![test image](/2020 Survey Viz/area_respondents.png)
-<img src="/2020 Survey Viz/area_respondents.png" alt="Flowers in Chania" width = "1920"></img>
+![test image](/2020 Survey Viz/area_respondents.png | width = 2000)
 
 how does this work
 what do you mean?
