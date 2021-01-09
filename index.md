@@ -20,32 +20,36 @@ Preferences
 <img src="/2020 Survey Viz/tech_respondents.png"></img>
 
 For the plot above, you read one dot as *"Of the people that belong in group x, _% of them use tool Y to visualize data."*<br><br>
-The black tick indicates the *global average* - *"Of everyone that has answered the census, _% of them use tool Y to visualize data."*
-Graphs in the following sections follow the same theme.
+The black tick indicates the *global average* - *"Of everyone that has answered the census, _% of them use tool Y to visualize data."*<br>
+Graphs in the following sections follow a similar theme.
 
 Some insights, 
 1. Excel, Pen & Paper, Power BI and Illustrator are more widely adopted by tenured folk than younger folk.
 2. Popular languages and libraries - R, Python and ggplot2 - are more used by newly minted practitioners.
 
+<br>
 <b><i>"What methods do you find most helpful in learning new data visualization skills?"</i></b>
 <TO-DO>
 
 Pain Points
 ---
-***"What are your biggest frustrations with doing data visualization in your job?"***
+<b><i>"What are your biggest frustrations with doing data visualization in your job?"</i></b>
 <img src="/2020 Survey Viz/frus_respondents.png"></img>
 
-***"What are the three most important issues facing data visualization?"***
+<b><i>"What are the three most important issues facing data visualization?"</i></b>
 <img src="/2020 Survey Viz/issu_respondents.png"></img>
+
+
 
 Priorities
 ---
-***"What area is your next priority for improving your data visualization skills?"***
+<b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
 <img src="/2020 Survey Viz/area_respondents.png"></img>
 
-***"Which of the following would you be likely to use professional development funds on?"***
+<b><i>"Which of the following would you be likely to use professional development funds on?"</i></b>
 <img src="/2020 Survey Viz/devs_respondents.png"></img>
 
 
 Postmortem
 ---
+<TO-DO>
