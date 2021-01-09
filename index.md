@@ -16,10 +16,10 @@ While we see that the base of respondents skew to the younger side, the census a
 
 Preferences
 ---
-***"What technologies do you use to visualize data?"***
+<b><i>"What technologies do you use to visualize data?"</i></b>
 <img src="/2020 Survey Viz/tech_respondents.png"></img>
 
-For the plot above, you read one dot as *"Of the people that belong in group x, _% of them use tool Y to visualize data."*
+For the plot above, you read one dot as *"Of the people that belong in group x, _% of them use tool Y to visualize data."*<br><br>
 The black tick indicates the *global average* - *"Of everyone that has answered the census, _% of them use tool Y to visualize data."*
 Graphs in the following sections follow the same theme.
 
@@ -27,7 +27,7 @@ Some insights,
 1. Excel, Pen & Paper, Power BI and Illustrator are more widely adopted by tenured folk than younger folk.
 2. Popular languages and libraries - R, Python and ggplot2 - are more used by newly minted practitioners.
 
-***"What methods do you find most helpful in learning new data visualization skills?"***
+<b><i>"What methods do you find most helpful in learning new data visualization skills?"</i></b>
 <TO-DO>
 
 Pain Points
