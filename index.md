@@ -40,11 +40,11 @@ Pain Points
 <b><i>"What are your biggest frustrations with doing data visualization in your job?"</i></b>
 <img src="/2020 Survey Viz/frus_respondents.png">
 
-**Very recent practitioners (*5 or less years into their career*) are frustrated by their lack of technical expertise**
+**Very recent practitioners (*5 or less years into their career*) are frustrated by their lack of technical expertise**<br>
 Against the global average, younger folks tended to answer "lack of design expertise", "lack of technical skills", "learning new tools / approaches".
 They show an aggressive focus on their technical capabilities.
 
-**Lack of time, too much effort most felt by more tenured folk**
+**Lack of time, too much effort most felt by more tenured folk**<br>
 More tenured folk answered "Lack of time" and "Too much effort spent on non-viz activity" significantly more than the global average.
 
 
@@ -52,10 +52,10 @@ More tenured folk answered "Lack of time" and "Too much effort spent on non-viz 
 <b><i>"What are the three most important issues facing data visualization?"</i></b>
 <img src="/2020 Survey Viz/issu_respondents.png">
 
-**Data visualization literacy, together with its perceived impact by the general public, is low"**
+**Data visualization literacy, together with its perceived impact by the general public, is low"**<br>
 More tenured folk champion these two statements, together with "data visualization not having a seat at the table."
 
-**Younger respondents are more focused on software literacy**
+**Younger respondents are more focused on software literacy**<br>
 This is in theme with their frustrations - both are very focused on the tools of the trade.
 
 
@@ -65,7 +65,7 @@ Priorities
 <b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
 <img src="/2020 Survey Viz/area_respondents.png">
 
-**Data skills first, then design skills**
+**Data skills first, then design skills**<br>
 * Respondents with less than 5 years into their careers focus on data skills.
 * Respondents with 5 - 10 years focus on their design skills.
 
@@ -73,7 +73,7 @@ Priorities
 <b><i>"Which of the following would you be likely to use professional development funds on?"</i></b>
 <img src="/2020 Survey Viz/devs_respondents.png">
 
-**More tenured practitioners would use their funds for networking, unstructured learning**
+**More tenured practitioners would use their funds for networking, unstructured learning**<br>
 * We see this in how they answer the questions pertaining to attending conferences and joining associations.
 * They also prefer "professional books" and "workshops / training seminars."
 
