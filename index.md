@@ -11,7 +11,7 @@ Break lines.
 But not this
 
 
-![test image](2020 Survey Viz/area_respondents.png)
+![test image](/2020 Survey Viz/area_respondents.png)
 
 how does this work
 what do you mean?
