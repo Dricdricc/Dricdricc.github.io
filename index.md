@@ -17,7 +17,7 @@ While we see that the base of respondents skew to the younger side, the census a
 Preferences
 ---
 <b><i>"What technologies do you use to visualize data?"</i></b>
-<img src="/2020 Survey Viz/tech_respondents.png"></img>
+<img src="/2020 Survey Viz/tech_respondents.png">
 
 For the plot above, you read one dot as *"Of the people that belong in group x, _% of them use tool Y to visualize data."*<br><br>
 The black tick indicates the *global average* - *"Of everyone that has answered the census, _% of them use tool Y to visualize data."*<br>
@@ -34,20 +34,20 @@ Some insights,
 Pain Points
 ---
 <b><i>"What are your biggest frustrations with doing data visualization in your job?"</i></b>
-<img src="/2020 Survey Viz/frus_respondents.png"></img>
+<img src="/2020 Survey Viz/frus_respondents.png">
 
 <b><i>"What are the three most important issues facing data visualization?"</i></b>
-<img src="/2020 Survey Viz/issu_respondents.png"></img>
+<img src="/2020 Survey Viz/issu_respondents.png">
 
 
 
 Priorities
 ---
 <b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
-<img src="/2020 Survey Viz/area_respondents.png"></img>
+<img src="/2020 Survey Viz/area_respondents.png">
 
 <b><i>"Which of the following would you be likely to use professional development funds on?"</i></b>
-<img src="/2020 Survey Viz/devs_respondents.png"></img>
+<img src="/2020 Survey Viz/devs_respondents.png">
 
 
 Postmortem
