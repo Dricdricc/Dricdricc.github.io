@@ -5,16 +5,16 @@ Preferences, Pain Points and Priorities
 
 The Data Visualization Society released a census to understand the current landscape of data visualization. <br>
 Participants are asked a variety of questions about their practice and background. <br><br>
-Given the recent data science boom, I thought it would be great to see how different "generations" of practitioners differ in aspects covered in the survey. We can qualify these *"generations"* through respondents' years in professional experience.<br><br>
+Given the recent boom of interest in data science, I thought it would be great to see how different "generations" of practitioners differ in aspects covered in the survey. We can qualify these *"generations"* through respondents' years in professional experience.<br><br>
 
-Out of the 1766 respondents, 1684 filled out this field.
+Out of the 1766 respondents, 1684 filled out the "years in professional experience" field. Plenty to work with.
 
 Below is the distribution of respondents' years in professional experience.
 
 
-While we see that the base of respondents skew to the younger side, the census also has decent representation from more tenured folk.
+While we see that the base of respondents skew to the younger side, the census also has decent representation from older folk.
 
-
+In these following sections, we unpack how each cohort is different from (or similar to) other cohorts.
 
 <h2>Preferences</h2>
 
@@ -23,7 +23,7 @@ While we see that the base of respondents skew to the younger side, the census a
 
 For the plot above, you read one dot as *"Of the people that belong in group x, _% of them use tool Y to visualize data."*<br><br>
 The black tick indicates the *global average* - *"Of everyone that has answered the census, _% of them use tool Y to visualize data."*<br>
-Graphs in the following sections follow a similar theme.
+Subsequent graphs in the following sections follow a similar theme.
 
 **Some insights,** 
 1. Excel, Pen & Paper, Power BI and Illustrator are more widely adopted by tenured folk than younger folk.
@@ -65,7 +65,7 @@ This is in theme with their frustrations - both are very focused on the tools of
 <b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
 <img src="/2020 Survey Viz/area_respondents.png">
 
-**Data skills first, then design skills**<br>
+**Developing data skills first, then design skills**<br>
 * Respondents with less than 5 years into their careers focus on data skills.
 * Respondents with 5 - 10 years focus on their design skills.
 
@@ -83,4 +83,19 @@ This is in theme with their frustrations - both are very focused on the tools of
 
 <h2>Postmortem</h2>
 
-<TO-DO>
+In this analysis, I describe how different generations of practitioners differ in their tools used, beliefs and priorities.<br>
+I hope that this gives some perspective on how people with more, or less tenure see the culture surrounding data visualization.<br>
+Needless to say, it also falls on us to help our community thrive.<br>
+<br>
+
+Younger practitioners are focused on learning technical skills, like R and Python, to generate their visualizations. <br>
+At the same time, they say that the "lack of collaboration and mentorship" is one of the bigger frustrations of the job.<br>
+Perhaps there's opportunity in your organizations to have more structured mentorship programs, if there aren't any already in place.
+
+Cheers!
+<br><br>
+
+<h2>Contact Me</h2>
+If you'd like to reach out, feel free to do so via LinkedIn.
+LinkedIn: https://www.linkedin.com/in/edricramos/
+
