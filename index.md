@@ -7,10 +7,10 @@ The Data Visualization Society released a census to understand the current lands
 Participants are asked a variety of questions about their practice and background. <br><br>
 Given the recent boom of interest in data science, I thought it would be great to see how different "generations" of practitioners differ in aspects covered in the survey. We can qualify these *"generations"* through respondents' years in professional experience.<br><br>
 
-Out of the 1766 respondents, 1684 filled out the "years in professional experience" field. Plenty to work with.
+Out of the 1,766 respondents, 1,684 filled out the "years in professional experience" field. Plenty to work with.
 
 Below is the distribution of respondents' years in professional experience.
-
+<img src = "/2020 Survey Viz/prof_distribution.png">
 
 While we see that the base of respondents skew to the younger side, the census also has decent representation from older folk.
 
@@ -25,15 +25,13 @@ For the plot above, you read one dot as *"Of the people that belong in group x, 
 The black tick indicates the *global average* - *"Of everyone that has answered the census, _% of them use tool Y to visualize data."*<br>
 Subsequent graphs in the following sections follow a similar theme.
 
-**Some insights,** 
+**Some insights on the preferred tools per cohort,** 
 1. Excel, Pen & Paper, Power BI and Illustrator are more widely adopted by tenured folk than younger folk.
 2. Popular languages and libraries - R, Python and ggplot2 - are more used by newly minted practitioners.
 
 <br>
-<b><i>"What methods do you find most helpful in learning new data visualization skills?"</i></b>
-asdfasdfasdf
 
-
+<hr>
 
 <h2>Pain Points</h2>
 
@@ -44,10 +42,12 @@ asdfasdfasdf
 Against the global average, younger folks tended to answer "lack of design expertise", "lack of technical skills", "learning new tools / approaches".
 They show an aggressive focus on their technical capabilities.
 
+They also mentioned a lack of collaboration and mentorship opportunities.
+
 **Lack of time, too much effort most felt by more tenured folk**<br>
 More tenured folk answered "Lack of time" and "Too much effort spent on non-viz activity" significantly more than the global average.
 
-
+<hr>
 
 <b><i>"What are the three most important issues facing data visualization?"</i></b>
 <img src="/2020 Survey Viz/issu_respondents.png">
@@ -58,17 +58,18 @@ More tenured folk champion these two statements, together with "data visualizati
 **Younger respondents are more focused on software literacy**<br>
 This is in theme with their frustrations - both are very focused on the tools of the trade.
 
-
+<hr>
 
 <h2>Priorities</h2>
 
 <b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
 <img src="/2020 Survey Viz/area_respondents.png">
 
-**Developing data skills first, then design skills**<br>
-* Respondents with less than 5 years into their careers focus on data skills.
-* Respondents with 5 - 10 years focus on their design skills.
+**Exploring new tools in the first 5 - 10 years, drilling down on them after**
+In their first 5 - 10 years, respondents focus on their data skills and learning new tools.
+Past that, respondents focus on improving their existing skillset.
 
+<hr>
 
 <b><i>"Which of the following would you be likely to use professional development funds on?"</i></b>
 <img src="/2020 Survey Viz/devs_respondents.png">
@@ -79,7 +80,7 @@ This is in theme with their frustrations - both are very focused on the tools of
 
 **Younger practitioners look for structured graduate coursework**
 
-
+<hr>
 
 <h2>Postmortem</h2>
 
