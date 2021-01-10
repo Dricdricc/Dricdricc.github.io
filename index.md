@@ -92,8 +92,6 @@ Past that, respondents focus on improving their existing skillset.
 In this analysis, I describe how different generations of practitioners differ in their tools used, beliefs and priorities.<br>
 I hope that this gives some perspective on how practitioners in different professional capacities experience the field of data visualization.<br>
 
-<br>
-
 Professionally, younger practitioners are focused on learning technical skills, like R and Python, to generate their visualizations. <br>
 At the same time, they say that the "lack of collaboration and mentorship" is one of the bigger frustrations of the job.<br>
 Perhaps there's opportunity in your organizations to have more structured mentorship programs, if there aren't any already in place. <br>
