@@ -10,11 +10,15 @@ Given the recent boom of interest in data science, I thought it would be great t
 Out of the 1,766 respondents, 1,684 filled out the "years in professional experience" field. Plenty to work with.
 
 Below is the distribution of respondents' years in professional experience.
+
+
 <img src = "/2020 Survey Viz/prof_distribution.png">
 
 While we see that the base of respondents skew to the younger side, the census also has decent representation from older folk.
 
 In these following sections, we unpack how each cohort is different from (or similar to) other cohorts.
+
+<hr>
 
 <h2>Preferences</h2>
 
@@ -56,7 +60,8 @@ More tenured folk answered "Lack of time" and "Too much effort spent on non-viz 
 More tenured folk champion these two statements, together with "data visualization not having a seat at the table."
 
 **Younger respondents are more focused on software literacy**<br>
-This is in theme with their frustrations - both are very focused on the tools of the trade.
+This is in theme with their frustrations - both are very focused on the tools of the trade.<br>
+While the lack of data visualization literacy is also a main issue for them, it’s not as prevalent.
 
 <hr>
 
@@ -65,7 +70,7 @@ This is in theme with their frustrations - both are very focused on the tools of
 <b><i>"What area is your next priority for improving your data visualization skills?"</i></b>
 <img src="/2020 Survey Viz/area_respondents.png">
 
-**Exploring new tools in the first 5 - 10 years, drilling down on them after**
+**Exploring new tools in the first 5 - 10 years, drilling down on them after**<br>
 In their first 5 - 10 years, respondents focus on their data skills and learning new tools.
 Past that, respondents focus on improving their existing skillset.
 
@@ -96,7 +101,10 @@ Perhaps there's opportunity in your organizations to have more structured mentor
 Cheers!
 <br><br>
 
+<br>
+<hr>
+
 <h2>Contact Me</h2>
-If you'd like to reach out, feel free to do so via LinkedIn.
-LinkedIn: https://www.linkedin.com/in/edricramos/
+If you'd like to reach out, feel free to do so via <a href = "https://www.linkedin.com/in/edricramos/">LinkedIn</a>.<br>
+Thank you to the Data Visualization Society for the opportunity to work on this challenge!
 
