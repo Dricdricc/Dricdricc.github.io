@@ -48,7 +48,7 @@ They show an aggressive focus on their technical capabilities.
 
 They also mentioned a lack of collaboration and mentorship opportunities.
 
-**Lack of time, too much effort most felt by more tenured folk**<br>
+**Lack of time, too much effort spent on other things most felt by more tenured folk**<br>
 More tenured folk answered "Lack of time" and "Too much effort spent on non-viz activity" significantly more than the global average.
 
 <hr>
@@ -94,12 +94,14 @@ I hope that this gives some perspective on how practitioners in different profes
 
 Professionally, younger practitioners are focused on learning technical skills, like R and Python, to generate their visualizations. <br>
 At the same time, they say that the "lack of collaboration and mentorship" is one of the bigger frustrations of the job.<br>
-Perhaps there's opportunity in your organizations to have more structured mentorship programs, if there aren't any already in place. <br>
+Perhaps there are opportunities in your organizations to have more structured mentorship programs, if there aren't any already in place. <br>
+
 And you don't have to extend these learning sessions to only data folk - teaching data literacy inside organizations could go a long way. <br>
+According to respondents, data literacy and the perceived impact of data visualization is still lacking.
 
-At the same time, larger systemic issues like income inequality and diversity in tech are also prevalent in our field. <br>
+Beyond the scope of this study, others have also shown that larger systemic issues like income inequality and diversity in tech are also prevalent in this field. <br>
 
-Needless to say, it also falls on us to help our professional community, and the community at large, thrive.<br>
+Needless to say, it also falls on us to help our professional community, and our local communities at large, thrive.<br>
 
 Cheers!
 <br><br>
